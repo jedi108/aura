@@ -7,7 +7,6 @@ import (
 
 type Incrementor struct {
 	maxNumber     uint32
-	minNumber     uint32
 	currentNubmer uint32
 }
 
